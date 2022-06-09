@@ -1,0 +1,19 @@
+{
+  "name": "react-native-default-image",
+  "version": "1.0.2",
+  "description": "Image component that allow to set up a default image to be shown when the custom image is loading and when the custom image can't be loaded",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "image",
+    "default"
+  ],
+  "author": "anti-duhring <mateusvnlima@gmail.com> (http://example.com)",
+  "license": "ISC"
+}
